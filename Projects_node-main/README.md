@@ -1,2 +1,3 @@
-# Projects_node
-Este es el paquete de proyectos en NODE.JS
+# Sena-ADSO-Pacial
+### Dylan Estiven Cordoba Giraldo 3069140.
+### Numero de Parcial #2
